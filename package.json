@@ -1,0 +1,16 @@
+{
+  "name" : "galaxy-augment",
+  "description" : "A galaxy lib which makes wrapping code easier.",
+  "version" : "0.1.0",
+  "author" : "Andrius Bentkus <andrius.bentkus@gmail.com>",
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/txdv/galaxy-augment"
+  },
+  "engines" : ["node >= 0.10"],
+  "main" : "main",
+  "files" : [ "main.js" ],
+  "dependencies" : {
+    "galaxy" : ">= 0.1.0"
+  }
+}
