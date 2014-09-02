@@ -11,6 +11,6 @@
   "main" : "main",
   "files" : [ "main.js" ],
   "dependencies" : {
-    "galaxy" : ">= 0.1.0"
+    "galaxy" : ">= 0.1.7"
   }
 }
